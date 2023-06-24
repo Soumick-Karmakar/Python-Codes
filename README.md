@@ -1,2 +1,2 @@
 # Python-Codes
-Various codes in Python
+Various codes written in Python
